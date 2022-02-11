@@ -1,0 +1,19 @@
+{
+  "name": "is-hellox",
+  "version": "1.0.1",
+  "description": "is hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnroma/lab-npm-exp.git"
+  },
+  "author": "John Romani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnroma/lab-npm-exp/issues"
+  },
+  "homepage": "https://github.com/johnroma/lab-npm-exp#readme"
+}
